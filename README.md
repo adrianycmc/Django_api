@@ -1,1 +1,3 @@
-# Django_api
+# Projeto Django API
+
+#### 🚧 Repositório em construção.
